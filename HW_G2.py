@@ -1,3 +1,5 @@
+n = int(input("Enter n loop: "))
+for i in range(n):
 score = float(input("Enter your score : "))
 MaxC = 100
 grade = ["A","B","C","D","F"]
